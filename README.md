@@ -11,9 +11,9 @@ This repository contains examples that demonstrate how to style HTML content usi
 
 ## 📂 Files Overview
 
-- **File 1**: Practice on inheritance of styles through parent elements (`div`, `form`, `input`, `button`)
-- **File 2**: Exercises applying various selectors including ID, class, universal, and descendant
-- **File 3**: Pseudo-classes for dynamic effects and pseudo-elements for text enhancement
+: Practice on inheritance of styles through parent elements (`div`, `form`, `input`, `button`)
+: Exercises applying various selectors including ID, class, universal, and descendant
+: Pseudo-classes for dynamic effects and pseudo-elements for text enhancement
 
 ## 🧠 Learning Focus
 - Understanding which elements inherit CSS by default
